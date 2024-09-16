@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Oleksandr Satunin</title>
+    <link>https://DataDruid-Alex.github.io/Oleksandr_Satunin_Portfolio/post/</link>
+    <description>Recent content in Projects on Oleksandr Satunin</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Sep 2024 11:25:05 -0400</lastBuildDate>
+    <atom:link href="https://DataDruid-Alex.github.io/Oleksandr_Satunin_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project VI: Thema</title>
+      <link>https://DataDruid-Alex.github.io/Oleksandr_Satunin_Portfolio/post/project-6/</link>
+      <pubDate>Wed, 11 Sep 2024 11:25:05 -0400</pubDate>
+      <guid>https://DataDruid-Alex.github.io/Oleksandr_Satunin_Portfolio/post/project-6/</guid>
+      <description>&lt;p&gt;detailed description of the project and the technology that I used&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project II: Thema</title>
+      <link>https://DataDruid-Alex.github.io/Oleksandr_Satunin_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 11 Sep 2024 11:00:59 -0400</pubDate>
+      <guid>https://DataDruid-Alex.github.io/Oleksandr_Satunin_Portfolio/post/project-2/</guid>
+      <description>&lt;p&gt;Detailed description of the project and the technology that I used&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project I: Thema</title>
+      <link>https://DataDruid-Alex.github.io/Oleksandr_Satunin_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 10 Sep 2024 10:58:08 -0400</pubDate>
+      <guid>https://DataDruid-Alex.github.io/Oleksandr_Satunin_Portfolio/post/project-1/</guid>
+      <description>&lt;p&gt;Detailed description of the project and the technology that I used&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project III: Thema</title>
+      <link>https://DataDruid-Alex.github.io/Oleksandr_Satunin_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://DataDruid-Alex.github.io/Oleksandr_Satunin_Portfolio/post/project-3/</guid>
+      <description>&lt;p&gt;Detailed description of the project and the technology that I used&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project IV: Thema</title>
+      <link>https://DataDruid-Alex.github.io/Oleksandr_Satunin_Portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://DataDruid-Alex.github.io/Oleksandr_Satunin_Portfolio/post/project-4/</guid>
+      <description>&lt;p&gt;Detailed description of the project and the technology that I used&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project V: Thema</title>
+      <link>https://DataDruid-Alex.github.io/Oleksandr_Satunin_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://DataDruid-Alex.github.io/Oleksandr_Satunin_Portfolio/post/project-5/</guid>
+      <description>&lt;p&gt;Detailed description of the project and the technology that I used&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
